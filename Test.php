@@ -16,6 +16,6 @@
 	echo substr($s1,2,6);
 	
 	echo "<br>";
-	echo substr("789",2,6);
+	echo substr("9981",2,6);
 ?>
 
